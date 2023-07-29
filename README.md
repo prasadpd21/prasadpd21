@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prasadpd21
-- 🌱 I’m currently learning Salesforce Development
+- 🌱 Salesforce Enthusiast
 - 💞️ I’m looking to collaborate on Salesforce !
 - 📫 Reach me @ prasaddeshmukh211@gmail.com
 
